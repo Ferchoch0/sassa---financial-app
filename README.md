@@ -17,3 +17,6 @@ La web de Sassa está diseñada para presentar la billetera virtual de manera cl
 - **CMS**: WordPress
 - **Constructor de páginas**: Elementor
 - **CSS**: Para personalización adicional de estilos.
+
+## 🎯 Donde esta alojado
+- **Web**: http://fern.lovestoblog.com/
